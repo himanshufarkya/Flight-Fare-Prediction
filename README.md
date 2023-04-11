@@ -18,4 +18,4 @@ Basically, a Webapp that predicts prices of different different airlines for a c
 <strong>Backend</strong> : Flask, python <br />
 <strong>Important Packages Used</strong> : numpy, pandas, scikit-learn, seaborn,Flask, gunicorn, Jinja2 <br />
 <strong>Other</strong> : Machine Learning, Feature engineering, Exploratory Data Analysis <br />
-<strong>Deployed on</strong> : Heroku <br />
+<strong>Deployed on</strong> : Railway <br />
